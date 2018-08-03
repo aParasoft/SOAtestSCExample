@@ -1,0 +1,4 @@
+com.parasoft.xtest.testcases.web.wizard.project.NewWebProjectPage.DEFAULT_LOCATION_EDITOR=true
+com.parasoft.xtest.testcases.web.wizard.project.NewWebProjectPage.NEW_WEB_PROJECT_FILE_EDITOR=C\:\\Workspace\\SourceControlExample\\Backup
+create_web_project_name=Backup
+eclipse.preferences.version=1

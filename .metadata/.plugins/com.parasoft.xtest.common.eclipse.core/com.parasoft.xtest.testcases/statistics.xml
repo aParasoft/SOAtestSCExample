@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestsRun>
+   <Project err="0" fail="0" name="Backup" skip="0" success="0" total="37"/>
+   <Project err="0" fail="1" name="SourceControlExample" skip="0" success="10" total="37">
+      <TestCase id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000004#0000000013" success="true"/>
+      <TestCase id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000004#0000000010" success="true"/>
+      <TestCase fail="true" id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000047#0000000048"/>
+      <TestCase id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000004#0000000011#0000000012" success="true"/>
+      <TestCase id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000042#0000000043#0000000044" success="true"/>
+      <TestCase id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000042#0000000043#0000000046" success="true"/>
+      <TestCase id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000004#0000000005" success="true"/>
+      <TestCase id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000042#0000000043#0000000045" success="true"/>
+      <TestCase id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000004#0000000006#0000000007" success="true"/>
+      <TestCase id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000004#0000000006#0000000008" success="true"/>
+      <TestCase id="wk:///SourceControlExample/SourceControlExample.tst#0000000000#0000000002#0000000003#0000000004#0000000006#0000000009" success="true"/>
+   </Project>
+   <Project err="0" fail="0" name="SourceControlExampleCheckout" skip="0" success="0" total="0"/>
+   <Project err="0" fail="0" name="VirtualAssets" skip="0" success="0" total="0"/>
+</TestsRun>
